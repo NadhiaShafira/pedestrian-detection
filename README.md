@@ -190,7 +190,7 @@ Karakter pada plat nomor dibaca menggunakan Tesseract OCR sehingga menghasilkan 
 
 ## 📸 Hasil Deteksi Gambar
 
-![Deteksi Pejalan Kaki Pada Gambar](screenshots/deteksi_gambar.png)
+![Deteksi Pejalan Kaki Pada Gambar](https://github.com/NadhiaShafira/pedestrian-detection/blob/7e6aac3b2d1dea6f9047153d265073cec6179464/hasil/Hasil%20Deteksi%20Gambar.png)
 
 📌 Sistem berhasil mendeteksi objek manusia pada gambar.
 
