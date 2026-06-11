@@ -224,7 +224,7 @@ Karakter pada plat nomor dibaca menggunakan Tesseract OCR sehingga menghasilkan 
 
 ## 📸 Hasil Deteksi Video
 
-![Deteksi Pejalan Kaki Pada Video](screenshots/deteksi_video.png)
+![Deteksi Pejalan Kaki Pada Video](https://github.com/NadhiaShafira/pedestrian-detection/blob/8ddefa31dfce1638c2051595b6da8334d25281c4/hasil/Hasil%20Deteksi%20Video.png)
 
 📌 Sistem berhasil mendeteksi manusia pada video.
 
