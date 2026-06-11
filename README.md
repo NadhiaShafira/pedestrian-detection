@@ -126,7 +126,7 @@ Karakter pada plat nomor dibaca menggunakan Tesseract OCR sehingga menghasilkan 
 
 ### 🚗 Hasil Deteksi Plat Nomor
 
-![Deteksi Plat Nomor](screenshots/deteksi_plat_nomor.png)
+![Deteksi Plat Nomor](https://github.com/NadhiaShafira/pedestrian-detection/blob/c14b20fa6f1d1b57919f5d85333cad92d4eb2411/plate_results/deteksi_plat_nomor.png)
 
 📌 Sistem berhasil mendeteksi lokasi plat nomor kendaraan.
 
